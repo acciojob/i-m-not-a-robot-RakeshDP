@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+hidden {
+  display: none;
+}
+
+.image-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+}
