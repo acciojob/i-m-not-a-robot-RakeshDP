@@ -13,7 +13,8 @@ window.onload = function() {
 					   'https://freepngimg.com/thumb/pineapple/17-pineapple-png-image-download.png',
 					   'https://pngimg.com/uploads/pineapple/pineapple_PNG2760.png',
 					   'https://www.freepngimg.com/thumb/apple/16-red-apple-png-image.png',
-					   'https://pngimg.com/uploads/orange/orange_PNG780.png'];
+					   'https://th.bing.com/th/id/R.c0611d279e44423939765f40c4ec421e?rik=uCP1lX0yyO7s7g&riu=http%3a%2f%2fwww.freepngclipart.com%2fdownload%2flion%2f87951-lion-png-image-high-quality.png&ehk=V9Xg2jXyvR0FJVe6VBo6el5QgdspBXS6Mvmy2sKx07k%3d&risl=&pid=ImgRaw&r=0'
+					  ];
     const repeatedImageIndex = Math.floor(Math.random() * 5);
   
     for (let i = 0; i < images.length; i++) {
